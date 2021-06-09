@@ -40,7 +40,7 @@ do
 	  filenames="$filenames,$m2line"
   done
 
-  echo "$pre,$workload,$namespace,$name,$suffix,$sizei,$filenames"
+  echo "$pre,$workload,$namespace,$name,$suffix,$size,$filenames"
   #echo $filenames
   #list_directory_contents $upper
   #dir_contents=$?
